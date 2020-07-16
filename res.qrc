@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>createContract.css</file>
+        <file>imgs/contract.png</file>
+        <file>imgs/cryptotoken.png</file>
+        <file>imgs/labelChooseType.png</file>
+        <file>imgs/close.png</file>
+        <file>imgs/find.png</file>
+        <file>imgs/redo.png</file>
+        <file>imgs/undo.png</file>
+        <file>imgs/compile.png</file>
+        <file>imgs/settings.png</file>
+        <file>imgs/wizard.png</file>
+        <file>imgs/error.png</file>
+        <file>imgs/warning.png</file>
+        <file>imgs/Check.png</file>
+        <file>imgs/download.png</file>
+        <file>imgs/newFile.png</file>
+        <file>imgs/openFile.png</file>
+        <file>imgs/saveFile.png</file>
+        <file>imgs/saveAllFiles.png</file>
+        <file>imgs/saveFileAs.png</file>
+    </qresource>
+</RCC>
